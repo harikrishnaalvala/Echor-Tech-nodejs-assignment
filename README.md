@@ -1,32 +1,32 @@
-###  Echor-Tech
+# Echor-Tech
 
 A lightweight Node.js Express API that transforms sentences by returning word count, unique words, and the reversed sentence.
 
-###  Overview
+# Overview
 
 This API exposes a single POST endpoint /api/transform that:
 
-# Counts total words
+### Counts total words
 
-# Extracts unique words
+### Extracts unique words
 
-# Reverses the sentence
+### Reverses the sentence
 
-# Perfect for beginners practicing Node.js, Express, and REST APIs.
+### Perfect for beginners practicing Node.js, Express, and REST APIs.
 
-###  Features
+#  Features
 
- # Word count
+ ### Word count
 
- # Unique words (case-insensitive)
+ ### Unique words (case-insensitive)
 
- # Reversed sentence
+ ### Reversed sentence
 
- # Fast & minimal Express setup
+ ### Fast & minimal Express setup
 
  # Easy to test
 
-### Clone the repository:
+# Clone the repository:
 
 git clone https://github.com/harikrishnaalvala/Echor-Tech-nodejs-assignment
 cd Echor-Tech-nodejs-assignment
